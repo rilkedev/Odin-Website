@@ -1,7 +1,15 @@
 .section-one {
     background-color: #1f2937;
-    height: 45vh;
+    height: 50vh;
 
+}
+
+
+.right {
+    border: red 2px solid;
+    width: 300px;
+    margin-left: 130px;
+    margin-top: 25px;
 }
 
 .header {
