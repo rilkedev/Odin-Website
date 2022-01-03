@@ -1,0 +1,33 @@
+.section-one {
+    background-color: #1f2937;
+    height: 45vh;
+
+}
+
+.header {
+    border: red 3px solid;
+    display:flex;
+    align-items: center;
+    justify-content: space-evenly;
+    gap:400px;
+}
+
+.header ul {
+    color: white;
+    border: springgreen 2px solid;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    display: flex;
+    gap: 16px;
+}
+
+.header-logo {
+    border: red 2px solid;
+    font-weight: 24px;
+    color: #F9FAF8;; 
+    display: flex;  
+}
+
+
+
