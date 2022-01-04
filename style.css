@@ -41,17 +41,18 @@ body {
 }
 
 
-.right {
+.left {
     border: red 2px solid;
-    width: 550px;
-    height: 300px;
+    width: 300px;
+    height: 280px;
 }
 
-.right h1 {
-    font-size: 48px;
+.l {
+    width: 200px;
+    border: solid 2px red;
 }
 
-.left img {
+.marcus {
    border: 2px solid blueviolet;
    width: 505px; 
    height: 320px;   
