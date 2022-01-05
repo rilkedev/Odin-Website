@@ -98,7 +98,7 @@ body {
 
 .second-header {
     border: 2px solid green;
-    margin-right: 115px;
+    margin-right: 65px;
     font-size: 32px;
 }
 
@@ -121,12 +121,11 @@ body {
     border-radius: 8px;
 }
 
-
-
 .section-four {
-    border: 2px solid blueviolet;
+  
     margin-bottom: 5px;;
     display: flex;
+    justify-content: center;
     gap: 30px;
 }
 
@@ -137,12 +136,32 @@ body {
     height: 80px;
     border-radius: 8px;
 }
-.mover {
-    margin-left: 80px;
+
+
+    /* section five */
+
+.section-five {
+    border: 2px solid black;
+    height: 40vh;
+    margin-bottom: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: #E5E7EB;
 }
 
+.quote {
+    border: 2px solid red;
+    font-weight: bold;
+    font-size: 36px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin: 55px;
+}
 
-
+.attribution {
+   
+}
 
 
 
