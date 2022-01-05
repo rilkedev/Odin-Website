@@ -6,12 +6,12 @@ body {
 
 .section-one {
     background-color: #1f2937;
-    height: 85vh;
+    height: 50vh;
     border: dashed springgreen 3px;
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 20px;
+    gap: 45px;
 }
 
 .header {
@@ -83,8 +83,8 @@ body {
 
 .marcus {
    border: 2px solid blueviolet;
-   width: 600px; 
-   height: 370px;   
+   width: 400px; 
+   height:   250px;
 }
 
 
