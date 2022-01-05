@@ -63,6 +63,11 @@ body {
     
 }
 
+.lorem {
+    color: #E5E7EB; 
+    font-size: 16px;
+}
+
 .left button {
     margin-top: 10px;
 }
