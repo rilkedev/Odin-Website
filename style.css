@@ -102,6 +102,40 @@ body {
     font-size: 32px;
 }
 
+/* section three */
+
+.section-three {
+    border: 2px solid blueviolet;
+    margin-bottom: 500px;;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    
+}
+
+.item {
+    border: 2px solid blue;
+    width: 250px;
+    text-align: center;
+    height: 225px;
+    border-radius: 8px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
