@@ -42,16 +42,29 @@ body {
 
 
 .left {
-    border: red 2px solid;
-    width: 300px;
+    border: 2px springgreen solid;
+    width: 500px;
     height: 280px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
 }
 
     
 
 .l {
-    width: 200px;
-    border: solid 2px red;
+ border: red 2px solid;
+}
+
+.left h1 {
+    font-size: 48px;
+    height:  65px;
+    color: white;
+    
+}
+
+.left button {
+    margin-top: 10px;
 }
 
 .marcus {
