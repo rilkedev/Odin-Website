@@ -88,6 +88,19 @@ body {
 }
 
 
+/* section two  */
+
+.section-two {
+    border: 2px solid red;
+    display: flex;
+    justify-content: center;
+}
+
+.second-header {
+    border: 2px solid green;
+    margin-right: 115px;
+    font-size: 32px;
+}
 
 
 
